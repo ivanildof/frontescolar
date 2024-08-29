@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "460828799982",
+    "project_id": "copiaescola-6cd61",
+    "storage_bucket": "copiaescola-6cd61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460828799982:android:a744bb7886b17be5cad4ff",
+        "android_client_info": {
+          "package_name": "com.mycompany.appescola"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY6nD39KhEO66XDzkmvYQ27ceM7G1lCi8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
